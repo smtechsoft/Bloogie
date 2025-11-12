@@ -1,0 +1,1 @@
+A simple laravel personal blog application
